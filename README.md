@@ -1,3 +1,6 @@
+Es un carrito de Compras Creado 100 % con React, no puse el foco en los estilos, por eso se hizo en linea.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
