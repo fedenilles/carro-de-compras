@@ -1,4 +1,6 @@
-Es un carrito de Compras Creado 100 % con React, no puse el foco en los estilos, por eso se hizo en linea.
+Es un carrito de Compras Creado 100 % con React, no puse el foco en los estilos, por eso se hizo en linea.  OJO ESTA CREADO CON COMPONENTES BASADOS EN CLASES
+
+
 
 
 # Getting Started with Create React App
